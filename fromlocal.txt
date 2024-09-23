@@ -1,1 +1,2 @@
 file is updated to show fetch command 
+this is a git-hub repo
