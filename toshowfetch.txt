@@ -1,2 +1,3 @@
 ts show fetch command 
 now i am make some changes
+now i make changes how git pull command can do fetch and merge both 
